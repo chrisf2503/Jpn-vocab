@@ -1,0 +1,27 @@
+Kanji		    Basic           Definetion
+行く			いく			 To go
+帰る			かえる			 To return; to go back 
+聞く			きく			To hear
+飲む			のむ			To drink
+話す			はなす			To speak; to talk
+読む			よむ			To read
+起きる			おきる			To wake up
+食べる			たべる			To eat
+寝る			ねる			To sleep
+見る			みる			To see
+来る			くる			To come
+する			する			To do
+勉強する		べんきょうする	   To study
+会う
+ある
+買う
+書く
+撮る
+待つ
+わかる
+いる
+泳ぐ
+聞く
+乗る
+やる
+出かける	
