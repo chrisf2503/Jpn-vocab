@@ -48,6 +48,7 @@ int main(){
         std::cout << "Enter number of random words you want to make sentences with: ";
         std::cin >> num;
         check1(num, Uverbs.numVocab());
+        std::cout << "Right now, on a sheet of paper, use the following in a sentence!\n";
         Uverbs.ranWords(num);
         std::cout << "Do you wish to exit: ";
         std::cin >> usr;
