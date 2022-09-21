@@ -1,7 +1,7 @@
-Kanji		    Basic           Definetion
-行く			いく			 To go
-帰る			かえる			 To return; to go back 
-聞く			きく			To hear
+Kanji			Basic			Definetion
+行く			いく			To go
+帰る			かえる			To return; to go back 
+聞く			きく			To hear; To ask
 飲む			のむ			To drink
 話す			はなす			To speak; to talk
 読む			よむ			To read
@@ -11,17 +11,16 @@ Kanji		    Basic           Definetion
 見る			みる			To see
 来る			くる			To come
 する			する			To do
-勉強する		べんきょうする	   To study
-会う
-ある
-買う
-書く
-撮る
-待つ
-わかる
-いる
-泳ぐ
-聞く
-乗る
-やる
-出かける	
+勉強する		べんきょうする		To study
+会う			あう			To meet
+ある			ある			To have; to exist
+買う			かう			To buy
+書く			かく			To write
+撮る			とる			To take (a picture)	
+待つ			まつ			To wait
+わかる			わかる			To understand
+いる			いる			To be; to exist; to stay 
+泳ぐ			およぐ			To swim
+乗る			のる			To get on
+やる			やる			To do; to Perform
+出かける		でかける		To go out
